@@ -1,6 +1,7 @@
 package com.example.nguyendinh.content_provider;
 
 
+import android.content.ContentProvider;
 import android.content.ContentUris;
 import android.content.ContentValues;
 import android.content.Context;
